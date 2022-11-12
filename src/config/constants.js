@@ -1,0 +1,17 @@
+export const appColor = {
+  //backColor1: 'rgb(250, 230, 193)',
+  //backColor2: 'rgb(254,246,231)',
+  //backColor3: 'rgb(158,157,163)',
+  // backColor1: 'rgba(50,149,93,1)',
+  // backColor2: 'rgba(50,149,93,0.2)',
+  // backColor3: 'rgba(50,149,93,1)',
+  backColor1: 'rgba(138,17,40,0.6)',
+  backColor2: 'rgba(138,17,40,0.1)',
+  backColor3: 'rgba(138,17,40,1)',
+  //blue: 'rgb(5,0,66)',
+  blue: 'rgba(138,17,40,1)',
+  textColor: 'rgb(27,5,28)',
+  search: 'rgb(178,178,178)',
+  rating: 'rgb(247,215,150)',
+  shadow: 'rgba(20,20,20,0.1)',
+};
